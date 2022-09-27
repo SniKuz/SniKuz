@@ -5,12 +5,6 @@ Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-| `E-mail` | sn1kuz@naver.com / ayyjh321@gmail.com |
-| `Linked In` | [Profile](www.linkedin.com/in/snikuz) |
-
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
 ![CPP](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
