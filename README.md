@@ -1,6 +1,6 @@
 ## Introduce ☑️
-Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
-● 🎓 College Student - Hanyang Univ. ERICA Computer Science
+Hello, My name is SniKuz (Kun Ha) who's interested in developing games.  
+● 🎓 College Student - Hanyang Univ. ERICA Computer Science  
 ● 🕹️ Learning anything about Game
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
@@ -12,6 +12,11 @@ Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-orange?style=flat-square&logo=Blender&logoColor=white)
 
+
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
+
+`E-mail` ➡️ sn1kuz@naver.com, ayyjh321@gmail.com  
+`Linked In` ➡️ [Profile](https://www.linkedin.com/in/snikuz/)  
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
