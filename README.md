@@ -21,5 +21,3 @@ Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
 `Other GitHub` ➡️ [Sn1Kuz GitHub](https://github.com/Sn1Kuz)  
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=SniKuz&theme=vision-friendly-white)
