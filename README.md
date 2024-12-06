@@ -15,7 +15,7 @@ Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
 
-`E-mail` ➡️ sn1kuz@naver.com 
+`E-mail` ➡️ sn1kuz@naver.com  
 `Linked In` ➡️ [Profile](https://www.linkedin.com/in/snikuz/)  
 `Portfolio` ➡️[Portfolio](https://snikuz.notion.site/)  
 `Blog` ➡️ [SniKuz_tistory](https://snikuz.tistory.com/)  
