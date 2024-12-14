@@ -20,7 +20,9 @@ Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
 `Portfolio` ➡️[Portfolio](https://snikuz.notion.site/)  
 `Blog` ➡️ [SniKuz_tistory](https://snikuz.tistory.com/)  
 `Other GitHub` ➡️ [Sn1Kuz GitHub](https://github.com/Sn1Kuz)  
-
+  
+- Problem Solving
+  
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sniz)](https://solved.ac/sniz/)
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=1)
