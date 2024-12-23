@@ -18,8 +18,7 @@ Hello, My name is SniKuz (Kun Ha) who's interested in developing games.
 `E-mail` ➡️ sn1kuz@naver.com  
 `Linked In` ➡️ [Profile](https://www.linkedin.com/in/snikuz/)  
 `Portfolio` ➡️[Portfolio](https://snikuz.notion.site/)  
-`Blog` ➡️ [SniKuz_tistory](https://snikuz.tistory.com/)  
-`Other GitHub` ➡️ [Sn1Kuz GitHub](https://github.com/Sn1Kuz)  
+`Blog` ➡️ [SniKuz_tistory](https://snikuz.tistory.com/)    
   
 - Problem Solving
   
